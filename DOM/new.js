@@ -3,7 +3,7 @@
 let para=document.querySelector("p");
 console.log(para.getAttribute("class"));
 
-
+//new
 
 let newBtn=document.createElement("button");
 newBtn.innerText="click me";
