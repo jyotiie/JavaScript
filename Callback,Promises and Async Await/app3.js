@@ -30,4 +30,4 @@ promise.then((res) => {
 promise.catch((err) => {
     console.log("rejected",err);
 });
-//new10
+//new101
