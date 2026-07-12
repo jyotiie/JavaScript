@@ -32,3 +32,4 @@ function getData(dataId){
         },2000);
     });
 }
+//new
