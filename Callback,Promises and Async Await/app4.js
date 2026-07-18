@@ -9,7 +9,7 @@ function asyncFunc(){
     });
 }
 
-
+//1
 console.log("fetching data1.....");
 let p1=asyncFunc();
 p1.then((res) => {
