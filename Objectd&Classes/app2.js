@@ -14,3 +14,4 @@ class User{
 
 let student1=new User("jyoti");
 let student2=new User();
+//10
